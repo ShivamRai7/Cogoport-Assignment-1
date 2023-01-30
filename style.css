@@ -17,7 +17,7 @@ a {
 
 .first-box {
     height: 518px;
-    background-image: url(https://cdn.cogoport.io/cms-prod/vault/original/home-banner-background-1.webp);
+    background-image: url(./images/home-banner-background-1.webp);
     background-size: cover;
 }
 
